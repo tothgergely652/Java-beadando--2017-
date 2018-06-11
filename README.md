@@ -6,7 +6,7 @@ Java programozás kurzus teljesítéséhez írt beadandó program, amely a köve
 Egy adatbáziskezelő program, ami lehetővé teszi önéletrajzok tárolását, kezelését.
 
 Elvárások:
-- 3 tábla: Önéletrajz, Tanulmányok, Munkák. Ezekkel lehessen:
+- 3 egység: Önéletrajz, Tanulmányok, Munkák. Ezekkel végezhető műveletek:
   - táblázatos formában a sorokat megtekinteni
   - új sort rögzíteni
   - meglévőt módosítani
