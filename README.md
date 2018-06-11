@@ -3,7 +3,7 @@ CV nyílvántartó program - Java Swing
 
 Java programozás kurzus teljesítéséhez írt beadandó program, amely a következő feladatnak tesz eleget:
 
-Egy adatbáziskezelő program, ami lehetővé teszi önéletrajzok tárolását, kezelését.
+Egy adatnyílvántartó program, ami lehetővé teszi önéletrajzok tárolását, kezelését.
 
 Elvárások:
 - 3 egység: Önéletrajz, Tanulmányok, Munkák. Ezekkel végezhető műveletek:
